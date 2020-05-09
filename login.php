@@ -1,6 +1,1 @@
-<?php>
-login screen
-echo "branch1";
-echo "login screen<br>";
-echo "branch2";
-?>
+please enter username and password
